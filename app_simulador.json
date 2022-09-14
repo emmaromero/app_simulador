@@ -1,0 +1,19 @@
+{
+    "dispositivo": {
+        "sesionId":"sesion1", 
+        "clienteId": "cliente1", 
+        "cuentaId":"cuenta1",
+        "deviceId":"device1",
+        "appId":"app1",
+        "geoposicion": "geoposicion1",
+        "direccionIp": "direccionip1",
+        "ipReputation": "ipreputaction2",
+        "numeroTelefonico": "numeroTelefonico1",
+        "hashApp": "hash app1",
+        "hashDatos": "hash datos1"
+    },
+    "peticion": {
+        "endPoint":"endponit1",
+        "tipoPeticion":"GET"
+    }
+}
